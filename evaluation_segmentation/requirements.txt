@@ -1,0 +1,6 @@
+pandas
+synapseclient
+evalutils
+SimpleITK
+numpy
+surface_distance
